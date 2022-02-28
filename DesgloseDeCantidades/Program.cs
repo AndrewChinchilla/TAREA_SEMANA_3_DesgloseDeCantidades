@@ -47,7 +47,7 @@ namespace DesgloseDeCantidades
                     Console.WriteLine("\t* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *");
                     Console.WriteLine("\n\tSALUDOS USUARIO! HA ELEGIDO DESGLOSE DE CANTIDADES");
                     Console.WriteLine("\n\t-->> PARA CONTINUAR POR FAVOR INGRESE SU CANTIDAD :");
-                    Console.Write("\n\t--> CANTIDAD: $");
+                    Console.Write("\n\t--> CANTIDAD: Q");
                     Linea = Console.ReadLine();
                     Cant2 = float.Parse(Linea);
                     Cant=(int)Cant2;
